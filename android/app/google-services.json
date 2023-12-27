@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551435813700",
+    "project_id": "travel-blog-app-fl",
+    "storage_bucket": "travel-blog-app-fl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551435813700:android:f29b4230189cbc881f4d11",
+        "android_client_info": {
+          "package_name": "com.cloudcoders.travelblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiY1cKrPO8AK_Yblpb24gFpykaav_-q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
